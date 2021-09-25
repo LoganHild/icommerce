@@ -69,9 +69,9 @@ router.delete('/:id', async (req, res) => {
         id: categoryId,
       },
     });
-    res.status(200).json(deleteCategory)
+    res.status(200).json(deleteCategory);
   } catch (err) {
-    res.status(500).json(err)
+    res.status(500).json(err);
   }
 });
 
