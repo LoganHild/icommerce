@@ -3,7 +3,7 @@ const { Product, Category, Tag, ProductTag } = require('../../models');
 
 // The `/api/products` endpoint
 
-// get all products
+// get all products//works
 router.get('/', async (req, res) => {
   try {
     const allProductData = await Product.findAll({
@@ -29,12 +29,11 @@ router.get('/:id', async (req, res) => {
 
     res.status(200).json(oneProductData);
   } catch (err) {
-    console.log(err);
     res.status(500).json(err);
   }
 });
 
-// create new product
+// create new product//not sure how to enter this
 router.post('/', (req, res) => {
   /* req.body should look like this...
     {
