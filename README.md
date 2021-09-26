@@ -32,8 +32,8 @@
 
   ## Usage
   After getting the database created, seeded, and the server running, simply use the requests to retrieve the necessary data from the database as described in the Walkthrough Video.
-   ![iCommerce](Assets/icommerce(1).png)
-   ![iCommerce](Assets/icommerce(2).png)
+   ![iCommerce](Assets/icommerce.png)
+   ![iCommerce](Assets/icommerce2.png)
 
   ## Walkthrough
   [Part 1](https://watch.screencastify.com/v/1wFwNKESZs921c6ngAxH)<br>
