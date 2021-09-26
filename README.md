@@ -48,8 +48,8 @@
   ## Questions
   Contact me with any questions!
 
-  Email: <hildebrandtlogan@gmail.com>
+  [Email](hildebrandtlogan@gmail.com)
 
-  Github: <https://github.com/LoganHild>
+  [Github](https://github.com/LoganHild)
   
-  LinkedIn: <https://www.linkedin.com/in/logan-hildebrandt-923553210/>
+  [LinkedIn](https://www.linkedin.com/in/logan-hildebrandt-923553210/)
