@@ -21,7 +21,7 @@
   Back-end for an e-commerce site using an Express.js API and Sequelize to interact with a MySQL database.
 
   ## Installation
-  Watch my Instructional Video for an installation and usage walkthrough! Use <code>npm i</code> to install dependencies. Once that is done use <code>mysql -u root -p</code> to use MySQL for creating the database. Once in the MySQL terminal, use <code>SOURCE db/schema.sql;</code> to create the database, then use <code>exit</code> to exit the MySQL terminal. Next use <code>npm run seed</code> to actually add the data using the seeds files. After the data has been added use <code>npm start</code> to get the server up and running.
+  Watch my Instructional Video for an installation and usage walkthrough! Use <code>npm i</code> to install dependencies. Once that is done use <code>mysql -u root -p</code> to   use MySQL for creating the database. Once in the MySQL terminal, use <code>SOURCE db/schema.sql;</code> to create the database, then use <code>exit</code> to exit the MySQL     terminal. Next use <code>npm run seed</code> to actually add the data using the seeds files. After the data has been added use <code>npm start</code> to get the server up and   running.
 
   ## Usage
   After getting the database created, seeded, and the server running, simply use the requests to retrieve the necessary data from the database as described in the Instructional Video.
