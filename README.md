@@ -10,7 +10,7 @@
 
   -[Usage](#usage)
   
-  -[Instructional Video](#instructionalvideo)
+  -[Instructional Video](#instructional video)
 
   -[License](#license)
 
