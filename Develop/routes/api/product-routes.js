@@ -17,7 +17,6 @@ router.get('/', async (req, res) => {
 
 // get one product by id//works
 router.get('/:id', async (req, res) => {
-  // find a single product by its `id`
   try {
     const oneProductData = await Product.findByPk(req.params.id, {
       include: [{ model: Category }, { model: Tag }]
@@ -33,7 +32,6 @@ router.get('/:id', async (req, res) => {
     console.log(err);
     res.status(500).json(err);
   }
-  // be sure to include its associated Category and Tag data
 });
 
 // create new product
@@ -110,7 +108,7 @@ router.put('/:id', async (req, res) => {
     });
 });
 
-//deletes product by id, doesn't update primary keys? hope that isn't a problem//works otherwise
+//deletes product by id//works
 router.delete('/:id', async (req, res) => {
   const productId = req.params.id;
 
