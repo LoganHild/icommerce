@@ -9,6 +9,8 @@
   -[Installation](#installation)
 
   -[Usage](#usage)
+  
+  -[Instructional Video](#instructionalvideo)
 
   -[License](#license)
 
