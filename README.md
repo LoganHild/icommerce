@@ -54,4 +54,4 @@
 
   [Github](https://github.com/LoganHild)
   
-  [LinkedIn](https://www.linkedin.com/in/logan-hildebrandt-923553210/)
+  [LinkedIn](https://www.linkedin.com/in/loganahildebrandt/)
